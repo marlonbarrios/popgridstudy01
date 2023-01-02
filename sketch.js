@@ -149,7 +149,7 @@ function mbsFramework() {
 function credits() {
   //credits
   createP("Pop Grid Study 01");
-  createP("Grid with 6 patters with probabilistic framework (lotery), Click on canvas to get a different condigurations.");
+  createP("Grid with 6 patters with probabilistic framework (lottery), Click on canvas to get a different configurations.");
   createP("Press 's' to save a png image");
   var link = createA("https://marlonbarrios.github.io/", "Programmed by Marlon Barrios Solano");
 
